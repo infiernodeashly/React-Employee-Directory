@@ -1,6 +1,6 @@
 {
   "name": "react-employee-directory",
-  "homepage": "https://afternoon-inlet-29061.herokuapp.com/",
+ 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
